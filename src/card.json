@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Butters",
+    "image": "../imgs/Butters.png"
+  },
+  {
+    "id": 2,
+    "name": "Scott",
+    "image": "../imgs/Captain_Diabetes.png"
+  },
+  {
+    "id": 3,
+    "name": "Cartman",
+    "image": "../imgs/Cartman.png"
+  },
+  {
+    "id": 4,
+    "name": "Clyde",
+    "image": "../imgs/Clyde.png"
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "image": "../imgs/David.png"
+  },
+  {
+    "id": 6,
+    "name": "Dog Poo",
+    "image": "../imgs/Dog_Poo.png"
+  },
+  {
+    "id": 7,
+    "name": "Heidi",
+    "image": "../imgs/Heidi.png"
+  },
+  {
+    "id": 8,
+    "name": "Kenny",
+    "image": "../imgs/Kenny.png"
+  },
+  {
+    "id": 9,
+    "name": "Kip",
+    "image": "../imgs/Kip.png"
+  },
+  {
+    "id": 10,
+    "name": "Kyle",
+    "image": "../imgs/Kyle.png"
+  },
+  {
+    "id": 11,
+    "name": "Leslie",
+    "image": "../imgs/Leslie.png"
+  },
+  {
+    "id": 12,
+    "name": "Mimsy",
+    "image": "../imgs/Mimsy.png"
+  },
+  {
+    "id": 13,
+    "name": "Nathan",
+    "image": "../imgs/Nathan.png"
+  },
+  {
+    "id": 14,
+    "name": "Nichole",
+    "image": "../imgs/Nichole.png"
+  },
+  {
+    "id": 15,
+    "name": "Sally",
+    "image": "../imgs/Sally.png"
+  },
+  {
+    "id": 16,
+    "name": "Stan",
+    "image": "../imgs/Stan.png"
+  },
+  {
+    "id": 17,
+    "name": "Timmy",
+    "image": "../imgs/Timmy.png"
+  },
+  {
+    "id": 18,
+    "name": "Token",
+    "image": "../imgs/Token.png"
+  },
+  {
+    "id": 19,
+    "name": "Tweek",
+    "image": "../imgs/Tweek.png"
+  },
+  {
+    "id": 20,
+    "image": "../imgs/Chef.png",
+    "name": "Chef"
+  }
+]
