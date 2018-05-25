@@ -2,9 +2,10 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JohnRodriguez1012.github.io/Memory-Game",
+  "description": "https://johnrodriguez1012.github.io/South-Park-Memory-Game/",
   "dependencies": {
     "gh-pages": "^1.1.0",
+    "package": "^1.0.1",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
     "react-scripts": "1.1.1"
