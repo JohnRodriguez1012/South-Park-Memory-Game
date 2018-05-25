@@ -2,7 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "description": "https://johnrodriguez1012.github.io/South-Park-Memory-Game/",
+  "homepage": "https://johnrodriguez1012.github.io/South-Park-Memory-Game/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "package": "^1.0.1",
